@@ -1,0 +1,23 @@
+#buttonPanel {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#results {
+    max-width: 1000px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 37pt;
+    text-align: center;
+}
+
+#minValue, #maxValue {
+    font-size: 70pt;
+}
+
+.english {
+    display: none;
+}
